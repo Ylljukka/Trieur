@@ -18,4 +18,3 @@ Par exemple, si une photo a été modifiée en janvier 2020, elle sera placée d
 5. Cliquez sur 'Validation'.
 6. Laisser tourner ;)
 7. Vos photos seront triées dans des dossiers par année et par mois en fonction de leurs dates de modifications.
-8. Si vous souhaitez faites un don via Paypal 
