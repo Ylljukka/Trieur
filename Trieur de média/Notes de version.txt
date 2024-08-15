@@ -1,9 +1,0 @@
-Tri Photos v2.0.0
-
-- Passage du code en orientée objet
-- Remise à neuf du design
-- Renommage en "Trieur de média"
-- Ajout barre de progression indéterminée
-- Ajout du tri des MP4		
-- Ajout "onglet note de version"
-- Bascule bouton "dons" de la fenêtre principal au menu cascade
