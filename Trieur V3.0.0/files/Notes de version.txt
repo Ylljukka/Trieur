@@ -1,0 +1,21 @@
+Tri Photos v3.0.0
+
+- Le tri est disponible pour n'importe quel type de fichier.
+- Le tri peut se faire sur la date de création ou modification.
+- Le chemin choisi est maintenant visible.
+- Améliorations graphiques diverses.
+
+Pour tout bug ou idées d'amélioration :
+reynaud.thomas@outlook.com
+
+------------------------------------------------------------------
+
+Tri Photos v2.0.0
+
+- Passage du code en POO.
+- Remise à neuf du design.
+- Renommage en "Trieur de média".
+- Ajout d'une barre de progression indéterminée.
+- Ajout du tri des fichiers MP4.		
+- Ajout de l'onglet "Note de version".
+- Bascule bouton "dons" de la fenêtre principal au menu déroulant.
